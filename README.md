@@ -51,7 +51,7 @@ The website showcases different abaya styles, including:
 - Sky Blue Abaya
 - Black Abaya
 - Brown Abaya
-- White Abaya
+- White Abaya with red scarf ( Elegant look )
 
 ## 🎯 Learning Objectives
 
